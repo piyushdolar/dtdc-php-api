@@ -5,9 +5,9 @@ Dtdc php api for developers
 1. Create/Register shippping to dtdc website via shipping.php file.
 2. Track your awb by api via tracking.php file
 
-1. Generate shipping.
-You will get response like below when successfully generated your file.
-For shipping response:
+1. Generate shipping.<br>
+You will get response like below when successfully generated your file.<br>
+For shipping response:<br>
 RESPONSE:
 {
   status: "OK",
