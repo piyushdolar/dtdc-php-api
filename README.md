@@ -6,7 +6,7 @@ Dtdc php api for developers
 2. Track your awb by following API.
   + http://ctbsplusapi.dtdc.com/dtdc-staging-api/api/dtdc/authenticate?username=M48_DEFAULT&password=password_DEFAULT
 
-+ Generate shipping.<br>
+* SHIPPING.PHP
 - You will get response like below when successfully generated your file.<br>
 - For shipping response:<br>
 - RESPONSE:<br>
