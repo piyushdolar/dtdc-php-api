@@ -3,7 +3,8 @@ Dtdc php api for developers
 
 # Tutorials Scenerio
 1. Create/Register shippping to dtdc website via shipping.php file.
-2. Track your awb by api via tracking.php file
+2. Track your awb by following API.
+  + http://ctbsplusapi.dtdc.com/dtdc-staging-api/api/dtdc/authenticate?username=M48_DEFAULT&password=password_DEFAULT
 
 + Generate shipping.<br>
 - You will get response like below when successfully generated your file.<br>
