@@ -20,5 +20,3 @@ Dtdc php api for developers
     ]
   }
 
-<br>
-Pull request to solve issue.
